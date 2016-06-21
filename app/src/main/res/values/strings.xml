@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HB</string>
+    <string name="action_settings">Settings</string>
+    <string name="desc">开启此服务可自动抢红包</string>
+</resources>
